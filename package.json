@@ -1,0 +1,32 @@
+{
+  "name": "defi-dbank",
+  "version": "1.0.0",
+  "description": "Premium DeFi Banking Platform - Enterprise-Grade Showcase Application",
+  "main": "index.html",
+  "author": "DeFi Team",
+  "license": "MIT",
+  "keywords": [
+    "defi",
+    "decentralized-finance",
+    "ethereum",
+    "banking",
+    "web3",
+    "premium",
+    "enterprise"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/defi-dbank.git"
+  },
+  "homepage": "https://github.com/yourusername/defi-dbank#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/defi-dbank/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "start": "open index.html",
+    "dev": "python -m http.server 8000"
+  }
+}
