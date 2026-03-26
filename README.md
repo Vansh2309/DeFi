@@ -35,7 +35,3 @@ python -m http.server 8000
 
 - HTML5, CSS3, Vanilla JavaScript
 - No frameworks or dependencies
-
-## License
-
-MIT
